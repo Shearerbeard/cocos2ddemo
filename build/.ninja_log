@@ -1,0 +1,15 @@
+# ninja log v5
+47	490	1691186241510748674	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourNavMeshQuery.cpp.o	bf839891d86e34b9
+11	5498	1691186246493710537	engine/cocos/core/CMakeFiles/cocos2d.dir/cmake_pch.hxx.gch	ff5e7663926228f7
+12	47	1691186241067752065	engine/external/CMakeFiles/external.dir/empty.cpp.o	ea021205ad04091a
+11	26	0	CMakeFiles/SYNC_RESOURCE-com.gamesfromscratch.cocosdemo	ff95558557eabcfb
+11	26	0	/home/shearerbeard/dev/cocos2d/cocosdemo/com.gamesfromscratch.cocosdemo/build/CMakeFiles/SYNC_RESOURCE-com.gamesfromscratch.cocosdemo	ff95558557eabcfb
+12	262	1691186241282750419	engine/external/recast/CMakeFiles/ext_recast.dir/DebugUtils/DebugDraw.cpp.o	e9d91e71d408e5a1
+17	69	1691186241089751896	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourAlloc.cpp.o	6a07faa746869331
+26	121	0	CMakeFiles/SYNC_RESOURCE-com.gamesfromscratch.cocosdemo.util	2eaaebc803cea9c9
+11	158	1691186241176751230	engine/cocos/core/CMakeFiles/cocos2d.dir/base/ccFPSImages.c.o	9bb70b464c1cae58
+12	257	1691186241277750457	engine/external/recast/CMakeFiles/ext_recast.dir/DebugUtils/DetourDebugDraw.cpp.o	3d2855b2f6f474bf
+22	343	1691186241363749799	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourNavMesh.cpp.o	20449d8f57b1d3fc
+69	261	1691186241280750434	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourNode.cpp.o	67e7de1f7cc8ef5b
+21	268	1691186241288750373	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourCommon.cpp.o	28511689ccfdbf53
+23	297	1691186241317750151	engine/external/recast/CMakeFiles/ext_recast.dir/Detour/DetourNavMeshBuilder.cpp.o	faa29c7b020837e3

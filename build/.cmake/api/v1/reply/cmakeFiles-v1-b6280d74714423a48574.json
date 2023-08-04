@@ -1,0 +1,491 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/CocosBuildSet.cmake"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/CocosBuildHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/CocosConfigDefine.cmake"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/CocosConfigDepend.cmake"
+		},
+		{
+			"path" : "cocos2d/cocos/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/2d/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/3d/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/platform/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/physics/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/physics3d/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/math/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/navmesh/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/renderer/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/base/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/ui/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/network/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/audio/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/editor-support/cocostudio/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cocos/editor-support/spine/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/extensions/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/FindGTK3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPNG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindGLEW.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindOpenGL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindCURL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"path" : "cocos2d/cmake/Modules/FindSQLite3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cocos2d/external/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/Box2D/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/chipmunk/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/freetype2/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/recast/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/bullet/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/jpeg/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/openssl/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/uv/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/webp/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/websockets/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/tinyxml2/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/xxhash/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/xxtea/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/clipper/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/edtaa3func/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/ConvertUTF/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/poly2tri/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/md5/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/linux-specific/fmod/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/glfw3/CMakeLists.txt"
+		},
+		{
+			"path" : "cocos2d/external/cmake/CocosExternalConfig.cmake"
+		},
+		{
+			"path" : "cocos2d/external/unzip/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/shearerbeard/dev/cocos2d/cocosdemo/com.gamesfromscratch.cocosdemo/build",
+		"source" : "/home/shearerbeard/dev/cocos2d/cocosdemo/com.gamesfromscratch.cocosdemo"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
